@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Universities</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_continue">Продолжить</string>
+    <string name="greetings">Привет, выпускник!</string>
+    <string name="explanation">Выбери предметы ЕГЭ, которые ты собираешься сдавать, а мы подберем тебе ВУЗ и направление!</string>
+    <string name="filter">Хочешь подобрать другие факультеты? Выбери предметы, и мы предложим новые варианты.</string>
+    <string name="ege_subjects">Предметы ЕГЭ</string>
+    <string name="choose">Выбери предмет</string>
+    <string name="more">Подробнее</string>
+    <string name="less">Скрыть</string>
+    <string name="score">Баллы ЕГЭ</string>
+
+</resources>
